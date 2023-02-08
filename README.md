@@ -23,4 +23,4 @@
 21)  Ansible Roles 
 
 
-For all the above topics - Lab Excercise
+Usecase study and real time examples for lab excercise
