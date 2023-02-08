@@ -2,7 +2,7 @@
 
 1)  what is Ansible and Architecture
 2)  Adhoc Commands
-3)  Ansbile Inventories
+3)  Ansible Inventories
 4)  Ansible Custome Inventory
 5)  Ansible Host Selection
 6)  Creating Yml files
